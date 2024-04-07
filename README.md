@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📄 Know about my experiences [https://mayankresume.tiiny.site](https://mayankresume.tiiny.site)
+- 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/1__6Q6hU5ajA0u_pJPvN0hoTq9cNbKHY-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
